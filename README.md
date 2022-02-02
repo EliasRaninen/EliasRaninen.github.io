@@ -15,7 +15,7 @@ I'm also a musician and guitar teacher. Checkout my [SoundCloud](https://soundcl
 
 E. Raninen and E. Ollila, “Bias adjusted sign covariance matrix,” *IEEE Signal Processing Letters*, vol. 29, pp. 339–343, 2022, doi: [10.1109/LSP.2021.3134940](https://doi.org/10.1109/LSP.2021.3134940).
 
-E. Raninen, D. E. Tyler, and E. Ollila, “Linear pooling of sample covariance matrices,” *IEEE Transactions on Signal Processing*, 2021, doi: [10.1109/TSP.2021.3139207](https://doi.org/10.1109/TSP.2021.3139207).
+E. Raninen, D. E. Tyler, and E. Ollila, “Linear pooling of sample covariance matrices,” *IEEE Transactions on Signal Processing (Early Access)*, 2021, doi: [10.1109/TSP.2021.3139207](https://doi.org/10.1109/TSP.2021.3139207).
 
 E. Raninen, E. Ollila, and D. E. Tyler, “On the variability of the sample covariance matrix under complex elliptical distributions,” *IEEE Signal Processing Letters*, vol. 28, pp. 2092–2096, Oct. 2021, doi: [10.1109/LSP.2021.3117443](https://doi.org/10.1109/LSP.2021.3117443).
 

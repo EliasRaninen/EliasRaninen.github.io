@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Elias Raninen
-logo: kahvi.jpg
+avatar: kahvi.jpg
+round-avatar: true

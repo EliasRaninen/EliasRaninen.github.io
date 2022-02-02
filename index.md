@@ -1,3 +1,7 @@
+[About Me](./index.md) / [Publications](./publications.md)
+
+---
+
 ## About Me
 
 I'm a Doctoral Candidate in [Prof. Esa Ollila's](http://users.spa.aalto.fi/esollila/) research group with the [Department of Signal Processing and Acoustics](https://www.aalto.fi/en/department-of-signal-processing-and-acoustics) at [Aalto University](https://www.aalto.fi/en), Finland.

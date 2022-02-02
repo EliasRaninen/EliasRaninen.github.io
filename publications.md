@@ -1,4 +1,8 @@
-## [About Me](./index.md) [Publications](./publications.md)
+[About Me](./index.md) / [Publications](./publications.md)
+
+---
+
+## Publications
 
 #### Journal
 

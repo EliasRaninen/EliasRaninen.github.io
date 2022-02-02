@@ -2,9 +2,9 @@
 
 I'm a Doctoral Candidate with the [Department of Signal Processing and Acoustics](https://www.aalto.fi/en/department-of-signal-processing-and-acoustics) at [Aalto University](https://www.aalto.fi/en), Finland.
 
-I'm interested in statistical signal processing, machine learning, and high-dimensional statistics. My recent publications have been in the topics of sparse linear regression and regularized covariance matrix estimation in high-dimensional and low sample size setting.
+I'm interested in statistical signal processing, machine learning, and high-dimensional statistics. My recent publications have been in the topics of sparse linear regression and regularized covariance matrix estimation in high-dimensional and low sample size settings.
 
-Checkout my [Aalto People](https://people.aalto.fi/elias.raninen) profile and my [GitHub](https://github.com/EliasRaninen) page.
+Checkout my [GitHub](https://github.com/EliasRaninen) page or [Aalto People](https://people.aalto.fi/elias.raninen) profile.
 
 I'm also a musician and guitar teacher. Checkout my [SoundCloud](https://soundcloud.com/elias-raninen).
 

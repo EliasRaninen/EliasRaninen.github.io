@@ -1,4 +1,4 @@
-[What's New?](./index.md) [About Me](./about.md) / [Publications](./publications.md) / [Music](./music.md)
+[What's New?](./index.md) / [About Me](./about.md) / [Publications](./publications.md) / [Music](./music.md)
 
 ---
 

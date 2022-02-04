@@ -50,3 +50,10 @@ P. Ylä-Oijala, E. Raninen, D. Ch. Tzarouchis, and A. Sihvola, “Characteristic
 
 M. Honkala, A. Lehtovuori, E. Raninen, and P. Ylä-Oijala, “Effect of shape deformation of a patch antenna on its characteristic modes,” in *2016 URSI International Symposium on Electromagnetic Theory (EMTS)*, Aug. 2016, pp. 690–693.
 [[doi]](https://doi.org/10.1109/URSI-EMTS.2016.7571492)
+
+#### Master's thesis
+
+E. Raninen, “Scaled sparse linear regression with the elastic net,” Master’s
+thesis, Aalto University, 2017. 
+[[link]](http://urn.fi/URN:NBN:fi:aalto-201705114623)
+[[pdf]](https://aaltodoc.aalto.fi/bitstream/handle/123456789/26143/master_Raninen_Elias_2017.pdf?sequence=1&isAllowed=y)

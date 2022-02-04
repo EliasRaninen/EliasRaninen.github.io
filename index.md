@@ -1,13 +1,11 @@
-[About Me](./index.md) / [Publications](./publications.md)
+[What's New?](./index.md) [About Me](./about.md) / [Publications](./publications.md) / [Music](./music.md)
 
 ---
 
-## About Me
+## Welcome
 
-I'm a Doctoral Candidate in [Prof. Esa Ollila's](http://users.spa.aalto.fi/esollila/) research group with the [Department of Signal Processing and Acoustics](https://www.aalto.fi/en/department-of-signal-processing-and-acoustics) at [Aalto University](https://www.aalto.fi/en), Finland.
+I'm a Doctoral Candidate in [Prof. Esa Ollila's](http://users.spa.aalto.fi/esollila/) research group with the [Department of Signal Processing and Acoustics](https://www.aalto.fi/en/department-of-signal-processing-and-acoustics) at [Aalto University](https://www.aalto.fi/en), Finland. Read more about me [here](./about.md).
 
-I'm interested in statistical signal processing, machine learning, and high-dimensional statistics. My recent research has been focusing on theory and methods for high-dimensional and low sample size problems in the topics of sparse linear regression and regularized covariance matrix estimation. You can find doi links to my papers from the [Publications](./publications.md) page.
+## What's New?
 
-Checkout my [GitHub](https://github.com/EliasRaninen) page or [Aalto People](https://people.aalto.fi/elias.raninen) profile.
-
-I'm also a musician and guitar teacher. Checkout my [SoundCloud](https://soundcloud.com/elias-raninen).
+* (Oct. 6, 2021) I delivered a talk [*On high-dimensional covariance matrix estimation for multiple classes*](https://sites.google.com/view/slsipworkshop/home/technicalprogram) at [*Statistical Learning for Signal and Image Processing (SLSIP) Workshop*](https://sites.google.com/view/slsipworkshop/home), Rüdesheim am Rhein, Germany, October 6th -- 8th, 2021.

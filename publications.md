@@ -33,8 +33,8 @@ P. Ylä-Oijala, D. C. Tzarouchis, E. Raninen, and A. Sihvola, “Characteristic 
 #### Conference
 
 A. Mian, E. Raninen, and E. Ollila, “A comparative study of supervised learning algorithms for symmetric positive definite features,” in *2020 28th European Signal Processing Conference (EUSIPCO)*, Jan. 2021, pp. 950–954.
-[[pdf]](https://ammarmian.github.io/pdf/eusipco_paper_2020.pdf)
 [[doi]](https://doi.org/10.23919/Eusipco47968.2020.9287531)
+[[pdf]](https://ammarmian.github.io/pdf/eusipco_paper_2020.pdf)
 [[code]](https://github.com/AmmarMian/Comparative_study_pedestrian_Eusipco)
 
 E. Raninen and E. Ollila, “Optimal pooling of covariance matrix estimates across multiple classes,” in *2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, Apr. 2018, pp. 4224–4228.

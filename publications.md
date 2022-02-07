@@ -5,13 +5,13 @@
 ## Publications
 
 #### Journal
-E. Raninen, D. E. Tyler, and E. Ollila, “Linear pooling of sample covariance matrices,” *IEEE Transactions on Signal Processing*, vol. 70, pp. 659-672, Jan. 2022.
+E. Raninen, D. E. Tyler, and E. Ollila, “Linear pooling of sample covariance matrices,” *IEEE Transactions on Signal Processing*, vol. 70, pp. 659-672, Dec. 2021.
 [[doi]](https://doi.org/10.1109/TSP.2021.3139207)
 [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9665347)
 [[code]](https://github.com/EliasRaninen/LinearPoolingOfSampleCovarianceMatrices)
 [[video]](https://youtu.be/LLBx1YcIOOI)
 
-E. Raninen and E. Ollila, “Bias adjusted sign covariance matrix,” *IEEE Signal Processing Letters*, vol. 29, pp. 339–343, Jan. 2022.
+E. Raninen and E. Ollila, “Bias adjusted sign covariance matrix,” *IEEE Signal Processing Letters*, vol. 29, pp. 339–343, Dec. 2021.
 [[doi]](https://doi.org/10.1109/LSP.2021.3134940)
 [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9648030)
 [[code]](https://github.com/EliasRaninen/BASIC)
@@ -25,12 +25,12 @@ E. Raninen and E. Ollila, “Coupled regularized sample covariance matrix estima
 [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9563198)
 [[code]](https://github.com/EliasRaninen/CoupledRSCM)
 
-E. Ollila and E. Raninen, “Optimal shrinkage covariance matrix estimation under random sampling from elliptical distributions,” *IEEE Transactions on Signal Processing*, vol. 67, no. 10, pp. 2707–2719, May 2019.
+E. Ollila and E. Raninen, “Optimal shrinkage covariance matrix estimation under random sampling from elliptical distributions,” *IEEE Transactions on Signal Processing*, vol. 67, no. 10, pp. 2707–2719, Mar. 2019.
 [[doi]](https://doi.org/10.1109/TSP.2019.2908144)
 [[code]](http://users.spa.aalto.fi/esollila/regscm/)
 [[video]](https://youtu.be/SLZxnHRoGLc)
 
-P. Ylä-Oijala, D. C. Tzarouchis, E. Raninen, and A. Sihvola, “Characteristic mode analysis of plasmonic nanoantennas,” *IEEE Transactions on Antennas and Propagation*, vol. 65, no. 5, pp. 2165–2172, May 2017.
+P. Ylä-Oijala, D. C. Tzarouchis, E. Raninen, and A. Sihvola, “Characteristic mode analysis of plasmonic nanoantennas,” *IEEE Transactions on Antennas and Propagation*, vol. 65, no. 5, pp. 2165–2172, Mar. 2017.
 [[doi]](https://doi.org/10.1109/TAP.2017.2677921)
 
 #### Conference

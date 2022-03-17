@@ -27,6 +27,7 @@ E. Raninen and E. Ollila, “Coupled regularized sample covariance matrix estima
 
 E. Ollila and E. Raninen, “Optimal shrinkage covariance matrix estimation under random sampling from elliptical distributions,” *IEEE Transactions on Signal Processing*, vol. 67, no. 10, pp. 2707–2719, Mar. 2019.
 [[doi]](https://doi.org/10.1109/TSP.2019.2908144)
+[[arXiv]](https://arxiv.org/abs/1808.10188)
 [[code]](http://users.spa.aalto.fi/esollila/regscm/)
 [[video]](https://youtu.be/SLZxnHRoGLc)
 
@@ -57,6 +58,6 @@ M. Honkala, A. Lehtovuori, E. Raninen, and P. Ylä-Oijala, “Effect of shape de
 #### Master's thesis
 
 E. Raninen, “Scaled sparse linear regression with the elastic net,” Master’s
-thesis, Aalto University, 2017. 
+thesis, Aalto University, 2017.
 [[link]](http://urn.fi/URN:NBN:fi:aalto-201705114623)
 [[pdf]](https://aaltodoc.aalto.fi/bitstream/handle/123456789/26143/master_Raninen_Elias_2017.pdf?sequence=1&isAllowed=y)

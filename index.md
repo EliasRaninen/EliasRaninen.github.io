@@ -7,6 +7,7 @@
 I'm a researcher at Nokia Bell Labs (since August 2022), Espoo, Finland, where my research focuses on machine learning for wireless communications. Read more about me [here](./about.md).
 
 ## What's New?
+* (On Aug 8, 2022) I'm excited to start in my new job as a researcher at Nokia Bell Labs, Espoo, Finland.
 
 * (On May 27, 2022) I successfully defended my thesis [*Contributions to theory and estimation of high-dimensional covariance matrices*](https://aaltodoc.aalto.fi/handle/123456789/114219). The thesis proposes theory and methods for covariance matrix estimation, when the sample size is smaller than or comparable to the dimension of the data.
 

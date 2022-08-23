@@ -4,7 +4,7 @@
 
 ## Welcome
 
-I'm a Doctoral Candidate in [Prof. Esa Ollila's](http://users.spa.aalto.fi/esollila/) research group with the [Department of Signal Processing and Acoustics](https://www.aalto.fi/en/department-of-signal-processing-and-acoustics) at [Aalto University](https://www.aalto.fi/en), Finland. Read more about me [here](./about.md).
+I'm a researcher at Nokia Bell Labs (since August 2022), Espoo, Finland, where my research focuses on machine learning for wireless communications. Read more about me [here](./about.md).
 
 ## What's New?
 

@@ -6,7 +6,7 @@
 
 I have recently started as a researcher at Nokia Bell Labs, Espoo, Finland, 
 where my research focus is on machine learning methods for wireless communications.
-I received the bachelor’s degree in pop and jazz music education from the 
+Previously, I received the bachelor’s degree in pop and jazz music education from the 
 Metropolia University of Applied Sciences, Helsinki, Finland, in 2009, as well as
 the B.Sc. (Tech.) in communications engineering, the M.Sc. (Tech.) degree in 
 computer, communication and information sciences, and the D.Sc. (Tech.) in 
@@ -49,4 +49,4 @@ problems such as classification or portfolio optimization in finance.
 
 ## Contact
 
-*firstname.lastname(at)nokia-bell-labs.com*
+*firstname.lastname*(at)nokia-bell-labs.com

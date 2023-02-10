@@ -1,6 +1,8 @@
 [What's New?](./index.md) / [About Me](./about.md) / [Publications](./publications.md) / [Music](./music.md)
 
 ---
+[Google Scholar](https://scholar.google.com/citations?user=rk-iFWoAAAAJ&hl=fi&oi=ao)
+
 
 ## Publications
 

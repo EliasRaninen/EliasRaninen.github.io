@@ -5,7 +5,6 @@
 ## About Me
 
 I'm currently a Radio Research Engineer/Scientist at Nokia Bell Labs, Espoo, Finland.
-My research focuses on machine learning methods for wireless communications.
 I received the D.Sc. (Tech.) degree in signal processing technology from Aalto
 University, Espoo, Finland, in 2022. My doctoral thesis developed theory and methods 
 for high-dimensional covariance matrix estimation (more info below). I hold both a
@@ -47,7 +46,3 @@ constrained to lie on a manifold. Using these tools and techniques, we have been
 able to derive various computationally efficient and accurate estimation
 methods, whose usefulness has been demonstrated using real world data in
 problems such as classification or portfolio optimization in finance.
-
-## Contact
-
-*firstname.lastname*(at)nokia-bell-labs.com

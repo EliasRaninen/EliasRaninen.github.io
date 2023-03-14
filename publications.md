@@ -9,6 +9,7 @@
 #### Journal
 E. Raninen, D. E. Tyler, and E. Ollila, “Linear pooling of sample covariance matrices,” *IEEE Transactions on Signal Processing*, vol. 70, pp. 659-672, 2022.
 [[doi]](https://doi.org/10.1109/TSP.2021.3139207)
+[[errata]](https://aaltodoc.aalto.fi/bitstream/handle/123456789/114219/isbn9789526408019_errata.pdf?sequence=2&isAllowed=y)
 [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9665347)
 [[code]](https://github.com/EliasRaninen/LinearPoolingOfSampleCovarianceMatrices)
 [[video]](https://youtu.be/LLBx1YcIOOI)

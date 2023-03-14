@@ -4,10 +4,12 @@
 
 ## Welcome
 
-I'm a researcher at Nokia Bell Labs. My research focuses on machine learning for wireless communications. Read
+I'm a researcher at Nokia Bell Labs. My research focuses on signal processing and machine learning for wireless communications. Read
 more about me [here](./about.md).
 
 ## What's New?
+* (On Mar 14, 2022) I feel honored and grateful to have received the [*Aalto University Doctoral Thesis Award 2023*](https://www.aalto.fi/en/news/school-of-electrical-engineering-celebrated-excellence-and-achievements-of-2022).
+
 * (On Aug 8, 2022) I'm excited to start in my new job as a Radio Research Engineer/Scientist at Nokia Bell Labs, Espoo, Finland.
 
 * (On May 27, 2022) I successfully defended my thesis [*Contributions to theory and estimation of high-dimensional covariance matrices*](https://aaltodoc.aalto.fi/handle/123456789/114219). The thesis proposes theory and methods for covariance matrix estimation, when the sample size is smaller than or comparable to the dimension of the data.

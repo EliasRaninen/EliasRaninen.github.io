@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm currently a Radio Research Engineer/Scientist at Nokia Bell Labs, Espoo, Finland.
+I'm a researcher at Nokia Bell Labs, Espoo, Finland.
 I received the D.Sc. (Tech.) degree in signal processing technology from Aalto
 University, Espoo, Finland, in 2022. My doctoral thesis developed theory and methods 
 for high-dimensional covariance matrix estimation (more info below). I hold both a

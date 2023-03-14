@@ -20,6 +20,7 @@ E. Raninen and E. Ollila, “Bias adjusted sign covariance matrix,” *IEEE Sign
 
 E. Raninen, E. Ollila, and D. E. Tyler, “On the variability of the sample covariance matrix under complex elliptical distributions,” *IEEE Signal Processing Letters*, vol. 28, pp. 2092–2096, 2021.
 [[doi]](https://doi.org/10.1109/LSP.2021.3117443)
+[[errata]](https://aaltodoc.aalto.fi/bitstream/handle/123456789/114219/isbn9789526408019_errata.pdf?sequence=2&isAllowed=y)
 [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9557837)
 
 E. Raninen and E. Ollila, “Coupled regularized sample covariance matrix estimator for multiple classes,” *IEEE Transactions on Signal Processing*, vol. 69, pp. 5681–5692, 2021.
@@ -29,6 +30,7 @@ E. Raninen and E. Ollila, “Coupled regularized sample covariance matrix estima
 
 E. Ollila and E. Raninen, “Optimal shrinkage covariance matrix estimation under random sampling from elliptical distributions,” *IEEE Transactions on Signal Processing*, vol. 67, no. 10, pp. 2707–2719, May 2019.
 [[doi]](https://doi.org/10.1109/TSP.2019.2908144)
+[[errata]](https://aaltodoc.aalto.fi/bitstream/handle/123456789/114219/isbn9789526408019_errata.pdf?sequence=2&isAllowed=y)
 [[arXiv]](https://arxiv.org/abs/1808.10188)
 [[code]](http://users.spa.aalto.fi/esollila/regscm/)
 [[video]](https://youtu.be/SLZxnHRoGLc)

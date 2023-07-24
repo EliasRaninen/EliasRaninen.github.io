@@ -8,7 +8,7 @@ I'm a researcher at Nokia Bell Labs. My research focuses on signal processing an
 more about me [here](./about.md).
 
 ## What's New?
-* (On Mar 14, 2022) I feel honored and grateful to have received the [*Aalto University Doctoral Thesis Award 2023*](https://www.aalto.fi/en/news/school-of-electrical-engineering-celebrated-excellence-and-achievements-of-2022).
+* (On Mar 14, 2023) I feel honored and grateful to have received the [*Aalto University Doctoral Thesis Award 2023*](https://www.aalto.fi/en/news/school-of-electrical-engineering-celebrated-excellence-and-achievements-of-2022).
 
 * (On Aug 8, 2022) I'm excited to start in my new job as a Radio Research Engineer/Scientist at Nokia Bell Labs, Espoo, Finland.
 

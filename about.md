@@ -6,8 +6,9 @@
 
 I'm a researcher at Nokia Bell Labs, Espoo, Finland.
 I received the D.Sc. (Tech.) degree in signal processing technology from Aalto
-University, Espoo, Finland, in 2022. My doctoral thesis developed theory and methods 
-for high-dimensional covariance matrix estimation (more info below). I hold both a
+University, Espoo, Finland, in 2022. My doctoral thesis, which focused on the
+development of theory and methods for high-dimensional covariance matrix estimation,
+was recognized with the Aalto University Doctoral Thesis Award in 2023. I hold both a
 B.Sc. (Tech.) and a M.Sc. (Tech.) in electrical engineering from Aalto University, 
 Espoo, Finland, as well as a Bachelor of Culture and Arts degree in pop and jazz 
 music from Metropolia University of Applied Sciences, Helsinki, Finland. My interests 
@@ -37,7 +38,7 @@ estimation methods developed for the traditional data regime often perform
 poorly in high-dimensional low sample size settings. A common approach to solve
 the problem is to use some variable selection or dimension reduction technique.
 
-In my doctoral research, I have developed regularized covariance matrix
+In my doctoral research, I developed regularized covariance matrix
 estimation methods for high-dimensional single class and multiclass problems.
 Regularization refers to incorporating additional or prior information into the
 problem, which can be expressed in the form of structure in the unknown

@@ -41,6 +41,20 @@ P. Ylä-Oijala, D. C. Tzarouchis, E. Raninen, and A. Sihvola, “Characteristic 
 
 #### Conference
 
+J. Pihlajasalo, Dani Korpi, Elias Raninen, Mikko Valkama, "Deep Learning Based OFDM Physical-Layer Receiver with Multidilated Convolutions," *2025 IEEE Conference on Standards for Communications and Networking (CSCN)*, Bologna, Italy, 15–17 September, 2025.
+[[doi]](10.1109/CSCN67557.2025.11230724)
+
+E. Ollila, X. Mestre, and E. Raninen, "Approach to beamforming minimizing the signal power estimation error,"
+in *2025 33rd European Signal Processing Conference (EUSIPCO)*, Palermo, Italy, 8–12 September, 2025, pp. 2382–2386.
+[[pdf]](https://eusipco2025.org/wp-content/uploads/pdfs/0002382.pdf)
+[[code]](https://github.com/esollila/Capon_plus)
+[[poster]](http://users.spa.aalto.fi/esollila/papers/EUSIPCO_2025_poster.pdf)
+
+E. Raninen, "Oracle approximating shrinkage covariance matrix estimators for complex elliptical distributions,"
+in *2024 32nd European Signal Processing Conference (EUSIPCO)*, Lyon, France, 26-30 August 2024, pp. 2717–2721,
+[[doi]](https://doi.org/10.23919/EUSIPCO63174.2024.10715246)
+[[pdf]](https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0002717.pdf)
+
 A. Mian, E. Raninen, and E. Ollila, “A comparative study of supervised learning algorithms for symmetric positive definite features,” in *2020 28th European Signal Processing Conference (EUSIPCO)*, Jan. 2021, pp. 950–954.
 [[doi]](https://doi.org/10.23919/Eusipco47968.2020.9287531)
 [[pdf]](https://ammarmian.github.io/pdf/eusipco_paper_2020.pdf)

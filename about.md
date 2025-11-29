@@ -4,17 +4,18 @@
 
 ## About Me
 
-I'm a researcher at Nokia Bell Labs, Espoo, Finland. My research focuses on signal
-processing and machine learning methods for physical layer processing in wireless systems.
-Before joining Bell Labs, I received the D.Sc. (Tech.) degree in signal processing
-technology from Aalto University, Espoo, Finland, in 2022. My doctoral thesis, which
-focused on the development of theory and methods for high-dimensional covariance matrix estimation,
-was recognized with the Aalto University Doctoral Thesis Award in 2023. I hold both a
-B.Sc. (Tech.) and a M.Sc. (Tech.) in electrical engineering from Aalto University, 
-Espoo, Finland, as well as a Bachelor of Culture and Arts degree in pop and jazz 
-music from Metropolia University of Applied Sciences, Helsinki, Finland. My interests 
-include jazz music, statistical signal processing, machine learning, and wireless 
-communications.
+I'm a researcher in statistical signal processing and machine learning. I work
+at Nokia Bell Labs, Espoo, Finland, where my research focuses on physical layer
+processing in wireless communications. Before joining Bell Labs, I received the
+D.Sc. (Tech.) degree in signal processing technology from Aalto University,
+Espoo, Finland, in 2022. My doctoral thesis, which focused on the development of
+theory and methods for high-dimensional covariance matrix estimation, was
+recognized with the Aalto University Doctoral Thesis Award in 2023. I hold both
+a B.Sc. (Tech.) and a M.Sc. (Tech.) in electrical engineering from Aalto
+University, Espoo, Finland, as well as a Bachelor of Culture and Arts degree in
+pop and jazz music from Metropolia University of Applied Sciences, Helsinki,
+Finland. My interests include jazz music, statistical signal processing, machine
+learning, and wireless communications.
 
 You can find more about my research from the links provided in the
 [Publications](./publications.md) page. Many of my articles also include code,

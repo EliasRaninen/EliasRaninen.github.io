@@ -15,6 +15,10 @@ logo: /assets/vaitos.jpeg
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/orcid.svg" width="20" style="opacity:0.7; vertical-align:middle; margin-right:6px;" />
     ORCID
   </a>
+  <a href="https://github.com/EliasRaninen" style="text-decoration:none; color:inherit;">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="20" style="opacity:0.7; vertical-align:middle; margin-right:6px;" />
+    GitHub
+  </a>
 </p>
 
 

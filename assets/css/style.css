@@ -23,13 +23,15 @@ body {
 main {
   text-align: center;
   flex: 1;
+  font-size: 0;
 }
 
 main .col {
   text-align: left;
+  font-size: 1rem;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 600px) {
   .col {
     width: 100%;
   }
@@ -39,7 +41,7 @@ main .col {
   display: inline-block;
   vertical-align: top;
   box-sizing: border-box;
-  max-width: 960px;
+  max-width: 900px;
   margin: 0 auto;
   padding: 40px;
   background: var(--panel);
@@ -54,13 +56,14 @@ main .col {
   font-family: 'Finlandica', sans-serif;
   margin-bottom: 0px;
   margin-top: 0px;
+  max-width: 100%;
 }
 
 .logo {
   text-align: center;
   margin: 30px auto auto auto;
-  width: 200px;
-  height: 200px;
+  width: 233px;
+  height: 233px;
   object-fit: cover;
   border-radius: 50%;
   background-size: cover;
@@ -68,12 +71,13 @@ main .col {
 }
 
 .nav {
+  text-align: left;
   font-size: 20px;
   font-weight: 600;
   font-family: 'Finlandica', sans-serif;
   margin-bottom: 0px;
   margin-top: 12px;
-  margin-left: 40px;
+  margin-left: 0px;
 }
 
 .content-pane {
@@ -82,9 +86,9 @@ main .col {
   font-size: 16px;
   font-family: 'Finlandica', sans-serif;
   margin: 0 auto;
-  padding-left: 40px;
-  max-width: 650px;
-  min-width: 400px;
+  padding-left: 0px;
+  max-width: 100%;
+  min-width: 48%;
 }
 
 footer {

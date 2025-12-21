@@ -1,12 +1,24 @@
-[What's New?](./index.md) / [About Me](./about.md) / [Publications](./publications.md) / [Music](./music.md)
-
 ---
-[Google Scholar](https://scholar.google.com/citations?user=rk-iFWoAAAAJ&hl=fi&oi=ao)
-
-
+layout: default
+title: Publications
+permalink: /publications/
+logo: /assets/vaitos.jpeg
+---
 ## Publications
 
-#### Journal
+<p align="left" style="font-size:14px; letter-spacing:0.5px;">
+  <a href="https://scholar.google.com/citations?user=rk-iFWoAAAAJ&hl=fi&oi=ao" style="text-decoration:none; color:inherit;">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlescholar.svg" width="20" style="opacity:0.7; vertical-align:middle; margin-right:6px;" />
+    Google Scholar
+  </a>
+  <a href="https://orcid.org/0000-0001-7461-5399" style="text-decoration:none; color:inherit;">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/orcid.svg" width="20" style="opacity:0.7; vertical-align:middle; margin-right:6px;" />
+    ORCID
+  </a>
+</p>
+
+
+### Journal
 E. Raninen, D. E. Tyler, and E. Ollila, “Linear pooling of sample covariance matrices,” *IEEE Transactions on Signal Processing*, vol. 70, pp. 659-672, 2022.
 [[doi]](https://doi.org/10.1109/TSP.2021.3139207)
 [[errata]](https://aaltodoc.aalto.fi/bitstream/handle/123456789/114219/isbn9789526408019_errata.pdf?sequence=2&isAllowed=y)
@@ -39,7 +51,7 @@ E. Ollila and E. Raninen, “Optimal shrinkage covariance matrix estimation unde
 P. Ylä-Oijala, D. C. Tzarouchis, E. Raninen, and A. Sihvola, “Characteristic mode analysis of plasmonic nanoantennas,” *IEEE Transactions on Antennas and Propagation*, vol. 65, no. 5, pp. 2165–2172, May 2017.
 [[doi]](https://doi.org/10.1109/TAP.2017.2677921)
 
-#### Conference
+### Conference
 
 J. Pihlajasalo, Dani Korpi, Elias Raninen, Mikko Valkama, "Deep Learning Based OFDM Physical-Layer Receiver with Multidilated Convolutions," *2025 IEEE Conference on Standards for Communications and Networking (CSCN)*, Bologna, Italy, 15–17 September, 2025.
 [[doi]](10.1109/CSCN67557.2025.11230724)
@@ -74,7 +86,7 @@ P. Ylä-Oijala, E. Raninen, D. Ch. Tzarouchis, and A. Sihvola, “Characteristic
 M. Honkala, A. Lehtovuori, E. Raninen, and P. Ylä-Oijala, “Effect of shape deformation of a patch antenna on its characteristic modes,” in *2016 URSI International Symposium on Electromagnetic Theory (EMTS)*, Aug. 2016, pp. 690–693.
 [[doi]](https://doi.org/10.1109/URSI-EMTS.2016.7571492)
 
-#### Theses
+### Theses
 
 E. Raninen, “Scaled sparse linear regression with the elastic net,” Master’s
 thesis, Aalto University, 2017.
@@ -83,3 +95,32 @@ thesis, Aalto University, 2017.
 E. Raninen, “Contributions to theory and estimation of high-dimensional covariance matrices,” Doctoral
 thesis, Aalto University, 2022.
 [[link]](http://urn.fi/URN:ISBN:978-952-64-0801-9)
+
+## Doctoral research
+
+My doctoral research centered on theoretical and applied research in the
+intersection of signal processing, multivariate statistics, and machine
+learning. I worked in [Prof. Esa Ollila's](http://users.spa.aalto.fi/esollila/)
+research group with the [Department of Signal Processing and Acoustics](https://www.aalto.fi/en/department-of-signal-processing-and-acoustics) at [Aalto University](https://www.aalto.fi/en), Finland. The focus of my research was on advanced
+learning methods and optimized algorithms for estimation and classification.
+Specifically, I developed theory and methods for high-dimensional covariance 
+matrix estimation for low sample size problems.
+
+In statistical data analysis and machine learning problems, it is important to
+be able to measure and quantify the degree of associations between the
+variables. This information is given by the covariance matrix, which is a
+building block for many important techniques in statistics and machine learning,
+such as in classification and clustering algorithms. Covariance matrix
+estimation methods developed for the traditional data regime often perform
+poorly in high-dimensional low sample size settings. A common approach to solve
+the problem is to use some variable selection or dimension reduction technique.
+
+In my doctoral research, I developed regularized covariance matrix
+estimation methods for high-dimensional single class and multiclass problems.
+Regularization refers to incorporating additional or prior information into the
+problem, which can be expressed in the form of structure in the unknown
+parameters, which can entail sparsity, low rank, or the parameter space can be
+constrained to lie on a manifold. Using these tools and techniques, we have been
+able to derive various computationally efficient and accurate estimation
+methods, whose usefulness has been demonstrated using real world data in
+problems such as classification or portfolio optimization in finance.

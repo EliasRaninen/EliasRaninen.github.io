@@ -1,4 +1,8 @@
 title: Elias Raninen
+
+url: "https://EliasRaninen.github.io"
+baseurl: ""
+
 defaults:
   - scope:
       path: ""

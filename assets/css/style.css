@@ -55,6 +55,8 @@ main {
 @media (max-width: 600px) {
   .col {
     flex-basis: 100%;
+    align-items: flex-start;
+    align-content: flex-start;
     padding: 20px; /* improved mobile spacing */
   }
 }

@@ -25,9 +25,12 @@ logo: /assets/vaitos.jpeg
 M. Honkala, D. Korpi, E. Raninen, J. M. J. Huttunen. “EqDeepRx: Learning a Scalable MIMO Receiver,” *arXiv preprint*, arXiv:2602.11834 (2026).
 [[pdf]](https://arxiv.org/pdf/2602.11834)
 
+
 ### Journal
 E. Ollila, X. Mestre and E. Raninen, “Beamforming Design for Minimizing the Signal Power Estimation Error,” *IEEE Transactions on Signal Processing*, vol. 74, pp. 1206-1217, 2026.
 [[doi]](https://doi.org/10.1109/TSP.2026.3673368)
+[[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11432948)
+[[poster]](http://users.spa.aalto.fi/esollila/papers/EUSIPCO_2025_poster.pdf)
 
 E. Raninen, D. E. Tyler, and E. Ollila, “Linear pooling of sample covariance matrices,” *IEEE Transactions on Signal Processing*, vol. 70, pp. 659-672, 2022.
 [[doi]](https://doi.org/10.1109/TSP.2021.3139207)
